@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="data" type="id" />
+    <item name="image" type="id">data</item>
+    <item name="button" type="id">buttonLoadPicture</item>
+    <item name="img" type="id">imgView</item>
+    <item name="text" type="id">text_view</item>
+    <item name="pick_image" type="id">button_pick_image</item>
+    <item name="text_view" type="id">text_view</item>
+    <item name="button_pick_image" type="id">button_pick_image</item>
+    <item name="Emailus" type="id">Email us</item>
+    <item name="Callus" type="id">Call us</item>
+    <item name="secure" type="id">secure</item>
+
+
+</resources>
